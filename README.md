@@ -1,7 +1,7 @@
 # DataAnalytics
 This is a collection of projects related to data analysis and data science.
 
-10-Sep-23
+| 10-Sep-23 |
 Today, I'm creating a repository to showcase my data analysis journey.
 I'm a BI Analyst proficient in Advanced Excel, Power Query, SQL, and Python for data analysis.
 While I'm more fluent in AWS QuickSight for data visualization, I also have working knowledge of:

@@ -1,4 +1,4 @@
-# DataAnalytics
+# Data_Analytics_Projects
 This collection features projects I've created while advancing in data analysis and data science.
 
 | 10-Sep-23 |  

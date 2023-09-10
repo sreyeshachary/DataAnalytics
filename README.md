@@ -1,5 +1,5 @@
-# Data Analytics Portfolio - Sreyesh Achary 
-This collection features projects I've created while advancing in data analysis and data science.
+# Data Analytics Portfolio - <u> Sreyesh Achary </u>
+A concise compilation of my data analysis and data science projects for quick reference
 
 | 10-Sep-23 |  
 Today, I'm creating a repository to showcase my data analysis journey.
